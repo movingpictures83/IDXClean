@@ -1,0 +1,2 @@
+Prefix plugins/IDXClean/example/
+Plugin IDXClean inputfile input.fna outputfile output.fna
